@@ -1,0 +1,12 @@
+{
+	"type": "javascript",
+	"id": "youtube",
+	"file": "youtube.js",
+	"showtimeVersion": "3.1.241",
+        "version": "0.4",
+        "author": "Fábio Canada",
+        "title": "Youtube",
+        "icon": "logo.png",
+        "synopsis": "Youtube: Video Sharing service",
+        "description": "<p>The best resource available on the Internet for Video sharing.<p>"
+}
